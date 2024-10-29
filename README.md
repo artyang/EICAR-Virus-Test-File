@@ -5,6 +5,7 @@ This is the EICAR AV Test File designed to setoff alarms on AV - it's not malwar
 Use it to test and tune EDR and AV Actions to verify operations and alarms.
 
 https://knowledge.broadcom.com/external/article/285988/create-a-malicious-test-file-eicar.html
+
 https://www.eicar.org/download-anti-malware-testfile/
 
 AlphaKiloNine
