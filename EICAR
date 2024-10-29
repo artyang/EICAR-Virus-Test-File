@@ -1,0 +1,15 @@
+# All Antivirus systems have a built in signature to detect this file as malicious
+# This is for testing alerts and detection
+# Creating an EICAR test file is easy. 
+# SHA-256: 275A021BBFB6489E54D471899F7DB9D1663FC695EC2FE2A2C4538AABF651FD0F
+# MD5: 44D88612FEA8A8F36DE82E1278ABB02F
+# SHA-1: 3395856CE81F2B7382DEE72602F798B642F14140
+
+X5O!P%@AP[4\PZX54(P^)7CC)7} $EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+
+# Open a notepad or text editor.
+# Paste this string and remove the space between "}" and "$"
+# Don't add and strings, spaces, CR/LR. 
+# Save the file as EICAR.COM
+# Place the file where Antivirus, EDR, XDR can scan it.
+# Alerting shows AV is working correctly.
